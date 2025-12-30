@@ -1,1 +1,3 @@
 login make
+input form make
+input func make
